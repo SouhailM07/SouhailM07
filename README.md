@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that captivate, engage, and inspire. With a mastery in SEO finesse, performance optimization, and accessibility wizardry, I orchestrate websites that not only shine but also excel in every aspect. My toolkit includes a repertoire of problem-solving skills and a penchant for engineering prompt solutions. Whether it's refining user interfaces or choreographing automation scripts, I'm committed to composing harmonious experiences that leave a lasting impression. 
 
 
 ---

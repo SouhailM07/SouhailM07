@@ -36,7 +36,9 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 
 <!-- ### 📊 Stats -->
 <br/>
-
+<a href="https://github.com/SouhailM07/elecar-website">
+<img align="left" alt="image" width="400px" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
+<a/>
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->

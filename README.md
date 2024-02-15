@@ -33,8 +33,8 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
           
           
           
-
-<!-- ### 📊 Stats -->
+---
+### 🚀 PROJECTS
 <br/>
 <a href="https://github.com/SouhailM07/elecar-website">
 <img align="left" alt="image" width="400px" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />

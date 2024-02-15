@@ -37,7 +37,13 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 ### 🚀 PROJECTS
 <br/>
 <a href="https://github.com/SouhailM07/elecar-website">
-<img align="left" alt="image" width="400px" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
+<img align="left" alt="image" width="315px" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
+<a/>
+<a href="https://github.com/SouhailM07/elecar-website">
+<img align="left" alt="image" width="315px" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
+<a/>
+<a href="https://github.com/SouhailM07/elecar-website">
+<img align="left" alt="image" width="315px" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
 <a/>
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox) -->
 

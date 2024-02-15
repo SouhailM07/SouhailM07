@@ -12,23 +12,23 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
           
           
           
-<img align="left" alt="HTML" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Material ui" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg"  />
-<img align="left" alt="Sass" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  />
-<img align="left" alt="Git" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Vscode" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Nextj" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="Express" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  />
-<img align="left" alt="Mongoose" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"  />
-<img align="left" alt="Appwrite" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Material ui" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg"  />
+<img align="left" alt="Sass" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" alt="Tailwindcss" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  />
+<img align="left" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Vscode" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Nextj" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Express" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  />
+<img align="left" alt="Mongoose" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"  />
+<img align="left" alt="Appwrite" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
           
@@ -39,7 +39,7 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <br/>
 <!--
 <a href="https://github.com/SouhailM07/elecar-website">
-<img align="left" alt="preview" width="80%" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
+<img align="left" alt="preview" width="00%" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
 </a>
 -->
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox) -->

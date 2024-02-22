@@ -41,9 +41,9 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <img align="left" alt="preview" width="00%" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
 </a>
 -->
-[shadow GitHub stats](https://github-readme-stats.vercel.app/api?username=SouhailM07&show_icons=true&theme=gruvbox)
+![shadow GitHub stats](https://github-readme-stats.vercel.app/api?username=SouhailM07&show_icons=true&theme=gruvbox)
 
-[GitHub Streak](https://streak-stats.demolab.com?user=SouhailM07&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=SouhailM07&theme=gruvbox&border_radius=4.5)
 
 #
 <!--

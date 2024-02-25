@@ -46,9 +46,10 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 ---
 ### 📊 STATUS
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=SouhailM07&show_icons=false&theme=blue-green&hiding_specific_stats) 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailM07&show_icons=true&theme=gruvbox) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=SouhailM07&theme=blue-green&hiding_radius=4.5)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouhailM07&layout=compact&theme=blue-green)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailM07&show_icons=true&theme=gruvbox) -->
 
  
  &nbsp;

@@ -6,7 +6,7 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 
 
 ---
-## Contacts:
+## Links:
 
 <div> 
 <a href="https://shadow-portfolio-blue.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge"  target="_blank"></a>

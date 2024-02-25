@@ -6,6 +6,16 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 
 
 ---
+## Contacts:
+
+<div> 
+<a href="https://www.linkedin.com/in/souhail-bouazza-4a71042a7/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://twitter.com/Shadow_Knight_3" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+<a href="https://shadow-portfolio-blue.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge"  target="_blank"></a>
+
+</div>&nbsp;&nbsp;
+
+---
 
 ### 🧰 Languages and Tools
           
@@ -55,14 +65,7 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
  &nbsp;
 
 #
-## Contacts:
 
-<div> 
-<a href="https://www.linkedin.com/in/souhail-bouazza-4a71042a7/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://twitter.com/Shadow_Knight_3" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
-<a href="https://shadow-portfolio-blue.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge"  target="_blank"></a>
-
-</div>&nbsp;&nbsp;
 <!--
 <details>
  <summary><h3>👨‍💻 Shadow Coding Journey</h3></summary>

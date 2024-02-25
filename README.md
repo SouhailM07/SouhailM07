@@ -13,7 +13,7 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <a href="https://www.linkedin.com/in/souhail-bouazza-4a71042a7/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://twitter.com/Shadow_Knight_3" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
 
-</div>&nbsp;&nbsp;
+</div>
 
 ---
 

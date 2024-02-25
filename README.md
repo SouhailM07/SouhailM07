@@ -66,6 +66,9 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 
 #
 
+<div>
+ <img src='https://github-profile-trophy.vercel.app/?username=SouhailM07&theme=algolia&row=3&column=5&margin-w=15&margin-h=15'/>
+</div>
 <!--
 <details>
  <summary><h3>👨‍💻 Shadow Coding Journey</h3></summary>

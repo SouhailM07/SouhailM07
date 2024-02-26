@@ -61,7 +61,7 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouhailM07&layout=compact&theme=blue-green)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SouhailM07&theme=blue-green&hiding_radius=4.5)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailM07&show_icons=true&theme=gruvbox) -->
-
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=MasterSouhail&theme=halloween)](https://github.com/ignacio-cuadra/github-readme-codewars)
  
  &nbsp;
  &nbsp;

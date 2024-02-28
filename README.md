@@ -44,9 +44,12 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <br />
 
           
-          
+---
           
 ### 🚀 LATEST PROJECT
+<a href="https://github.com/SouhailM07/car-rent-red" target="_blank">
+<img src="https://github.com/SouhailM07/car-rent-red/blob/main/public/car-rent-red-preview.png?raw=true"/>
+</a>
 <br/>
 <!--
 <a href="https://github.com/SouhailM07/elecar-website">

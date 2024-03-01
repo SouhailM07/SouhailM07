@@ -5,17 +5,7 @@
 Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that captivate, engage, and inspire. With a mastery in SEO finesse, performance optimization, and accessibility wizardry, I orchestrate websites that not only shine but also excel in every aspect. My toolkit includes a repertoire of problem-solving skills and a penchant for engineering prompt solutions. Whether it's refining user interfaces or choreographing automation scripts, I'm committed to composing harmonious experiences that leave a lasting impression. 
 
 
----
-## Links:
 
-<div> 
-          
-<a href="https://shadow-portfolio-blue.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a>
-<a href="https://www.linkedin.com/in/souhail-bouazza-4a71042a7/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://twitter.com/Shadow_Knight_3" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
-<a href="https://www.codewars.com/users/MasterSouhail"  target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
-          
-</div>
 
 ---
 
@@ -43,6 +33,18 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
+---
+## Links:
+
+<div> 
+          
+<a href="https://shadow-portfolio-blue.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/souhail-bouazza-4a71042a7/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://twitter.com/Shadow_Knight_3" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+<a href="https://www.codewars.com/users/MasterSouhail"  target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+          
+</div>
           
 ---
           

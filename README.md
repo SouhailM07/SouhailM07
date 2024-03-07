@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that captivate, engage, and inspire. With a mastery in SEO finesse, performance optimization, and accessibility wizardry, I orchestrate websites that not only shine but also excel in every aspect. My toolkit includes a repertoire of problem-solving skills and a penchant for engineering prompt solutions. Whether it's refining user interfaces or choreographing automation scripts, I'm committed to composing harmonious experiences that leave a lasting impression. ...
+Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that captivate, engage, and inspire. With a mastery in SEO finesse, performance optimization, and accessibility wizardry, I orchestrate websites that not only shine but also excel in every aspect. My toolkit includes a repertoire of problem-solving skills and a penchant for engineering prompt solutions. Whether it's refining user interfaces or choreographing automation scripts, I'm committed to composing harmonious experiences that leave a lasting impression.
 
 
 
@@ -35,11 +35,12 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 
 <br/>
 
----
 
-<br/>
+
 
 ## Links:
+
+---
 
 <div> 
           

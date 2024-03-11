@@ -31,6 +31,8 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <img align="left" alt="Mongoose" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"  />
 <img align="left" alt="Appwrite" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
 <img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
 </div>
 
 <br/>

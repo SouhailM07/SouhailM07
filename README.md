@@ -55,7 +55,7 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <p align="center">
           
 <a href="https://github.com/SouhailM07/sound-effect" target="_blank">
-<img src="https://github.com/SouhailM07/SouhailM07/assets/111569420/6b883d18-1f6e-4726-b7f7-76dd5a836811?raw=true"/> 
+<img src="https://github.com/SouhailM07/SouhailM07/assets/111569420/4a7d0b17-392b-40aa-b231-36e8468dc566?raw=true"/> 
 </a>
 </p>
 

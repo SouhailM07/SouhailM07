@@ -11,7 +11,7 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 
 ### 🧰 Languages and Tools
           
-          
+
           
 <div>
 <img align="left" alt="HTML" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -52,9 +52,13 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 ---
           
 ### 🚀 LATEST PROJECT
-<a href="https://github.com/SouhailM07/car-rent-red" target="_blank">
-<img src="https://github.com/SouhailM07/car-rent-red/blob/main/public/car-rent-red-preview.png?raw=true"/>
+<p align="center">
+          
+<a href="https://github.com/SouhailM07/sound-effect" target="_blank">
+<img src="https://github.com/SouhailM07/SouhailM07/assets/111569420/6b883d18-1f6e-4726-b7f7-76dd5a836811?raw=true"/> 
 </a>
+</p>
+
 <br/>
 <!--
 <a href="https://github.com/SouhailM07/elecar-website">
@@ -79,10 +83,4 @@ Welcome! I'm a Front-End Maestro dedicated to sculpting digital landscapes that 
 <div>
  <img src='https://github-profile-trophy.vercel.app/?username=SouhailM07&theme=algolia&row=3&column=5&margin-w=15&margin-h=15'/>
 </div>
-<!--
-<details>
- <summary><h3>👨‍💻 Shadow Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-<!-- [website]: https://shadow-portfolio-blue.vercel.app/ -->
 

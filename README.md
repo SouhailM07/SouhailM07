@@ -48,25 +48,7 @@ Welcome! I'm a Fullstack Developer dedicated to sculpting digital landscapes tha
 <a href="https://www.codewars.com/users/MasterSouhail"  target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
           
 </div>
-          
----
-          
-### 🚀 LATEST PROJECT
-<p align="center">
-          
-<a href="https://github.com/SouhailM07/sound-effect" target="_blank">
-<img src="https://github.com/SouhailM07/SouhailM07/assets/111569420/4a7d0b17-392b-40aa-b231-36e8468dc566?raw=true"/> 
-</a>
-</p>
-
-<br/>
-<!--
-<a href="https://github.com/SouhailM07/elecar-website">
-<img align="left" alt="preview" width="00%" style="padding-right:10px;" src="https://github.com/SouhailM07/SouhailM07/blob/main/preview.png" />
-</a>
--->
-
-
+    
 ---
 ### 📊 STATUS
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=SouhailM07&show_icons=false&theme=blue-green&hiding_specific_stats) 

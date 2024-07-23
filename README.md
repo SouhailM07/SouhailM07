@@ -14,8 +14,8 @@ As a Digital Craftsman, I specialize in creating responsive, high-performance pr
 
           
 <div>
-<img align="left" alt="HTML" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="HTML" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Material ui" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg"  />
@@ -31,7 +31,11 @@ As a Digital Craftsman, I specialize in creating responsive, high-performance pr
 <img align="left" alt="Mongoose" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"  />
 <img align="left" alt="Appwrite" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
 <img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<!-- <img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> -->
+<img align="left" alt="Framer motion" width="29px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-admin-panel-next.appspot.com/o/skills%2Fa_6196d7ef7ad825176a90b4110461c428.webp?alt=media&token=436ca7ea-cb4b-4709-aec0-e91546b25e5a" />
+<img align="left" alt="Clerk" width="29px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-admin-panel-next.appspot.com/o/skills%2Fclerk-logo.webp?alt=media&token=602cf4df-85ea-469b-9a8a-f213e509e3b6" />
+<img align="left" alt="Expo" width="29px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-admin-panel-next.appspot.com/o/skills%2Flogo-type-a-light.png?alt=media&token=cacbf8df-73bf-4f6b-b445-cc3ddd21f1f7" />
+<img align="left" alt="Shadcn-ui" width="29px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-admin-panel-next.appspot.com/o/skills%2Fshadcn%20logo.png?alt=media&token=5e126031-c601-49b4-963f-b3fded9ec515" />
           
 </div>
 

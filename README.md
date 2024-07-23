@@ -41,6 +41,8 @@ As a Digital Craftsman, I specialize in creating responsive, high-performance pr
 
 <br/>
 
+---
+
 ## Links:
 
 

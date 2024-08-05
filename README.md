@@ -23,13 +23,13 @@ As a Digital Craftsman, I specialize in creating responsive, high-performance pr
 <img align="left" alt="Tailwindcss" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  />
 <img align="left" alt="Git" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<!-- <img align="left" alt="Vscode" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
+<img align="left" alt="Vscode" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="React" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Nextj" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <img align="left" alt="Express" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  />
 <img align="left" alt="Mongoose" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"  />
-<img align="left" alt="Appwrite" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
+<!-- <img align="left" alt="Appwrite" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" /> -->
 <img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <!-- <img align="left" alt="Bash" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> -->
 <img align="left" alt="Framer motion" width="29px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-admin-panel-next.appspot.com/o/skills%2Fa_6196d7ef7ad825176a90b4110461c428.webp?alt=media&token=436ca7ea-cb4b-4709-aec0-e91546b25e5a" />
